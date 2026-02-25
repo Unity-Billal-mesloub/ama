@@ -15,4 +15,4 @@ I get a lot of questions by email. This way anyone can read the answer.
 
 -
 
-*I can also be reached on [Twitter](https://twitter.com/sindresorhus) and [email](mailto:sindresorhus@gmail.com), but I prefer this medium.*
+
